@@ -13,6 +13,7 @@ body {
 	outline:none;
 	font-size: 100%;
 	font-weight:400;
+	font-family: 'Figtree', sans-serif;
 }
 
 ::-webkit-scrollbar {
